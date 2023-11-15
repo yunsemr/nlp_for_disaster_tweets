@@ -1,2 +1,3 @@
-# nlp_for_disaster_tweets
-Repository for Kaggle competition-NLP with disaster tweets
+# NLP with Disaster Tweets
+
+This repository is for the Kaggle competition "NLP with Disaster Tweets". 
